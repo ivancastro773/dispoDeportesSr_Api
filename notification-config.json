@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dispo-deportes-sr",
+  "private_key_id": "0733d071e7b969ae670bb16ecb7fcbd4dd1cf6e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDlUDqGEGBwHH+v\ne1yTFIMlG+abIrS8+SCRYTIn5IJLsnSc9mzlFxB//QDCRV2r3+804wRZ38s6y5Ui\nqkfUPX2svzfqxgB0PaJAVV6+AjPx7jk3ZcZ/tYa0ApijnzO9G/kx7ZyKlPVQW/t4\n7xB5ogoc1ykT+3jPNLE+x+J0udLZC7vgOw5WR5kN9xok1byGfLsx9Nk4vAHYMj6x\nrNAOjzk9/uNR2Mj5FwZVTHJTToqDVD5QUh59uH5jWl/nP6zRbfse+8g1Y3JzsnPY\nTXuksmRTnCtQrjQNu33UjeUUwR4ESj3iFvNS/df6t5JiR4zr79MoOBg+rB+Tepq9\n8PnpDV2pAgMBAAECggEACqqrNj4/xidFNzv1R/At04WTOgcowhuSjMCpLRrfhrbj\n3sNFuHhUr6dsqBzC6TJO9bZTpvyWfwMmSkkCc1hy5py0dKrGLaIKUJTIBe2jTe8n\nYTDORXWDsQ7n28CVjwfklRJ49CdOq/DDZ1IzgXzsnH/TrNbHPVg1oHZ6zbQxHyBq\niEruPfWrz5Sy9MYWa7hG4qbs2VXw2l2XFq+IlJKNuZrbKf51bVRiKkUKAP0QpLB5\nmtGiGsRLbIHMRtbW99GONyg+tKOfsWFIZJzd4HXRn5PiRn7NZt0SS3X5ILFNl1RE\ntpApgLY3HDaaewTY7bpdxE9dFAaQMWD6Mw9eOQYcQQKBgQD/CdrykWex4sE0pUFj\n2bv63fyBK9TPuywjLsEPm9LSH00LdfIY5IuGj8oORMkPsvh0fEKf7I2x1nQU5fPx\n+zJmiGdHD1X+L8zSfOBh5QNTT3IX2SnB8S+sjgGkJ3KoobZq9AfG1pJOs71h68Ng\nYX5vjCv+xo0q/6Y73C8P8EZUuQKBgQDmLYua4CHNHXrLoth58gQsyeNO1Ulud1gy\nlOGm/qDVc2Cdt+g/fJCUgCuUNuhvHrKttrumrIJ+47Y8K/zZz4NAN3sdBG9CDCOf\nmjfcYIXejjhHwHxZyV7VzrvnBF0WpjtPWqZ+FDrYY21YglRP7iOrhRxmcTkYcKEj\njMS0EYW4cQKBgHF6CRl06RaVNjIedYHgF2v/6aHvxrjHJ1RgMTaotp0XoEhBKn84\n8Xvl7pl6sZtynmn2AA74SfOe3/eMeYZppntIpetQP4rh6dieB5iHNXuUFcfWsGXC\n0tuMM96+Tp4Jlgjwm6U1Q9QQ1WsEY+I2fvNTAyBRZ+6B4Y0w4x/MYP7BAoGALDU1\nKeLAOy/dRL0bDJjB2oRP5vUp7FB5nQVhLXycEULenIwUzBS1g//13rqI+8aOlLSS\n59kcGxjLCFV+c6raT3wYZiNS5wGD2gR5lBbpvyvbfVRnzarSTwgsqJr68f2tSHll\nnrNt9d9qweQOI2fea/Pd14MJbzs6h6Ripx7yatECgYBG5fPkpXBFVOd/bO7lqJ4a\n3lKITz51VyqKLUfi0mKZOVKbz4OLrlE+3SjUehC7sBCWrMgjcBfJ0L2ksAfgsJex\n4ugPtqXy4H6Qj6qOAHMeKme1CRAgLo80OG9D8mq5p049GWAyiu57enO5kPNvsONS\nCll9zBUw6o4Dzv0XNmbTNA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3bw23@dispo-deportes-sr.iam.gserviceaccount.com",
+  "client_id": "116230119483203721579",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3bw23%40dispo-deportes-sr.iam.gserviceaccount.com"
+}
